@@ -1,2 +1,2 @@
-# hello-world
-New oppository
+# hello
+Oppository where I write my code tn Python
